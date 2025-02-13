@@ -1,4 +1,3 @@
 # For BONG !
 
-Access the web here:
-https://duckyquang.github.io/bong/
+Access the web here: https://qwangbuii.github.io/
