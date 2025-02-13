@@ -1,3 +1,4 @@
-# Happy Valentine's Bông Bếu
+# For BONG !
 
-Love. Love. Love. Love.
+Access the web here:
+https://duckyquang.github.io/bong/
