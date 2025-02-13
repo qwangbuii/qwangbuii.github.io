@@ -16,5 +16,5 @@ setTimeout(() => {
   
     // Redirect to index.html when the button is clicked
     document.getElementById('begin-button').addEventListener('click', () => {
-        window.location.href = 'index.html';
+        window.location.href = 'index-fake.html';
 });
